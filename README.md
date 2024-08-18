@@ -3,7 +3,7 @@
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 You can reach me on [LinkedIn](https://https://www.linkedin.com/feed/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hassan-patel-b93b28314/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
